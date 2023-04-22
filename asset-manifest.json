@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dall-e-clone/static/css/main.4b5f59db.css",
+    "main.js": "/dall-e-clone/static/js/main.50bb29bd.js",
+    "static/js/787.964e2106.chunk.js": "/dall-e-clone/static/js/787.964e2106.chunk.js",
+    "static/media/logo.svg": "/dall-e-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dall-e-clone/index.html",
+    "main.4b5f59db.css.map": "/dall-e-clone/static/css/main.4b5f59db.css.map",
+    "main.50bb29bd.js.map": "/dall-e-clone/static/js/main.50bb29bd.js.map",
+    "787.964e2106.chunk.js.map": "/dall-e-clone/static/js/787.964e2106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5f59db.css",
+    "static/js/main.50bb29bd.js"
+  ]
+}
